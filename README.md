@@ -13,7 +13,7 @@ To know more head over to: <a href="http://aurelieherbelot.net/pears/">http://au
 
 ###Clone this repo
 
-`git clone -b development git@github.com:minimalparts/PeARS.git`
+`git clone -b development git@github.com:PeARSearch/PeARS.git`
 
 `cd PeARS`
 
@@ -56,7 +56,7 @@ To know more head over to: <a href="http://aurelieherbelot.net/pears/">http://au
 
 3. <b>Get the semantic space</b>
 
-   In the root directory of the repo, run 
+   In the root directory of the repo, run
 
    `wget aurelieherbelot.net/pears-demo/wikiwoods.dump.bz2`
 
@@ -79,9 +79,9 @@ Go to the browser and type localhost:5000. You should find PeARS running there.
 
 ####That's it, folks!
 
-Please [report](https://github.com/minimalparts/PeARS/issues) to us any issues that you face.
+Please [report](https://github.com/PeARSearch/PeARS/issues) to us any issues that you face.
 
 
 ###More links:
 
-[Code Overview](https://github.com/minimalparts/PeARS/wiki/Code-overview)
+[Code Overview](https://github.com/PeARSearch/PeARS/wiki/Code-overview)
