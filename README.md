@@ -1,10 +1,14 @@
 # PeARS
 
+**Important** If you are planning on trying out PeARS, head over to the development branch. The masters branch is by now very out-of-date, and the information below is too!
+
 ##What is PeARS?
 
+PeARS (Peer-to-peer Agent for Reciprocated Search) is a lightweight, distributed search engine. It relies on people going about their normal business and browsing the web. While they do so, the pages they visit are indexed in the background, and assigned a ‘meaning’ (is this page about cats, fashion, ancient history, Python programming?, etc). From time to time, they can choose to share some or all of these meanings with others, providing the building stones of a giant search engine network, distributed across people.
 
-PeARS (Peer-to-peer Agent for Reciprocated Search) is a lightweight, distributed search engine. It relies on people going about their normal business and browsing the web. While they do so, the pages they visit are indexed in the background, and assigned a ‘meaning’ (is this page about cats, fashion, ancient history, Python programming?, etc). From time to time, they can choose to share some or all of these meanings with others, providing the building stones of a giant search engine network, distributed across people. By linking page meanings with real people doing real browsing, PeARS ensures that the nodes in the network are topically coherent: an individual interested in architecture will probably have indexed a lot of web pages on associated topics, providing a potentially relevant cluster for someone with a query on, say, the German ‘Bauhaus’ movement.
+By linking page meanings with real people doing real browsing, PeARS ensures that the nodes in the network are topically coherent. An individual interested in architecture will probably have indexed a lot of webpages on art, construction and engineering topics. A dog trainer may have spent time buying equipment from online companies she trusts. By sharing the relevant part of their history, they make other people on the PeARS network able to use their specialised knowledge.
 
+Think of PeARS as a layer of virtual agents underlying a community of real people. Your virtual agent is responsible for sharing your Web knowledge in the way you choose, and for contacting other people’s agents to help you answer your queries. This behaviour is very similar to the way people behave offline, both in terms of advertising particular specialisations and of looking for relevant sources when seeking information.
 
 To know more head over to: <a href="http://aurelieherbelot.net/pears/">http://aurelieherbelot.net/pears/</a>
 
