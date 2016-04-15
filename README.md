@@ -11,7 +11,7 @@ Think of PeARS as a layer of virtual agents underlying a community of real peopl
 To know more head over to: <a href="http://aurelieherbelot.net/pears/">http://aurelieherbelot.net/pears/</a>
 
 ##Set up
->This is mostly a development setup since we are not really production-ready yet!! You are working on a demo of PeARS which will soon run at pearsearch.org.
+>This is mostly a development setup since we are not really production-ready yet!! We are working on a demo of PeARS which will soon run at pearsearch.org.
 
 ###Clone this repo
 
