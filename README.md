@@ -70,7 +70,7 @@ In the root directory of the repo, run
 
 `python run.py`
 
-Go to the browser and type localhost:5000. You should find PeARS running there.
+Go to the browser and type localhost:5000. You should find PeARS running there. We have provided a couple of demo pears for you to try. They of course only cover a tiny amount of pages and information. Try some queries related to food (e.g. `chocolate cake') or the enviromnent (e.g. `endangered species').
 
 
 
