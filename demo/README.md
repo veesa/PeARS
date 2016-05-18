@@ -22,4 +22,4 @@
 
 * Make profile for the user:
 
-`python ./mkProfiles.py lea`
+`python ./mkProfiles.py ravi`
