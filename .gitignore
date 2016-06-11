@@ -57,6 +57,9 @@ docs/_build/
 # PyBuilder
 target/
 
+# PyCharm
+.idea/
+
 # Swap files (For Vim die hards)
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
